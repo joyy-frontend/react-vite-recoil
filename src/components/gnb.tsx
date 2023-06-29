@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const Gnb = () => (
+const Gnb = () => ( 
   <nav className="gnb">
     <ul>
       <li>
